@@ -47,3 +47,5 @@ Java + MariaDB ATM simulation with authentication and transaction management.
 ### 📡 LoRa Telemetry System
 ESP32 and SX1278 communication system for long-range wireless data transmission.
 
+![Snake animation](https://github.com/tony-gz/tony-gz/blob/output/github-contribution-grid-snake-dark.svg)
+
