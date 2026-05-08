@@ -1,17 +1,15 @@
-# HELLO!, I'm Antonio
+# Hello!, I'm Antonio
+
+Java & Spring Boot Backend Developer  
+Final-year Computer Systems Engineering Student  
+Passionate about IoT, Linux and embedded systems
+
+## 🚀 About Me
 
 💻 Software Developer focused on Backend Development with Java & Spring Boot  
 📱 Flutter Developer interested in IoT and real-time systems  
 🛰️ Working on GPS, LoRa and embedded systems projects  
 🐧 Linux enthusiast (Arch Linux user)
-
-## 🚀 About Me
-
-- 🔭 Currently working on IoT and GPS-based agricultural systems
-- 🌱 Learning advanced backend architecture with Spring Boot
-- 📡 Interested in embedded systems, LoRa communication and automation
-- 🗄️ Experience with MariaDB, PostgreSQL and MySQL
-- ⚡ Passionate about Linux, networking and low-level systems
 
 ## 🛠️ Tech Stack
 
