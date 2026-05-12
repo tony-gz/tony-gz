@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/tony-gz/tony-gz/blob/main/assets/banner.png" alt="Banner" />
+  <img src="https://github.com/tony-gz/tony-gz/blob/main/github-header-banner.png" alt="Banner" />
 </p>
 
 
