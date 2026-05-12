@@ -1,4 +1,9 @@
-<h1 align="center">Hi!, I'm Antonio</h1>
+
+<p align="center">
+  <img src="https://github.com/tony-gz/tony-gz/blob/main/assets/banner.png" alt="Banner" />
+</p>
+
+
 
 <p align="center">
 Java & Spring Boot Backend Developer <br>
