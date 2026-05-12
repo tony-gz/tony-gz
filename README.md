@@ -59,16 +59,14 @@ Passionate about IoT, Linux and embedded systems
 
 ## 📌 Featured Projects
 
-###  Banking REST API
-Production-style banking API built with Spring Boot, JWT authentication and layered architecture.  
-Includes role-based security, money transfers, Swagger documentation and automated testing.
+### 🏦 [Banking API](https://github.com/tony-gz/banking-api)
+Production-style banking REST API built with Spring Boot, JWT authentication and PostgreSQL.
 
-###  SmartBizControl API
-Spring Boot backend for microbusiness management with Firebase Authentication and Google Sign-In integration.  
-Includes sales, products, clients, suppliers, dashboards and reporting modules.
+### 📊 [SmartBizControl API](https://github.com/tony-gz/smartbizcontrol-api)
+Backend system for microbusiness management with Firebase Authentication.
 
-###  Autonomous Agricultural GPS System
-Low-cost autonomous navigation system using Arduino, dual GPS modules and Flutter.
+### 📡 [Dual GPS Fusion System](https://github.com/tony-gz/dual-gps-fusion)
+Flutter app for improving GPS accuracy using sensor fusion and dual GPS modules.
 
 
 ---
