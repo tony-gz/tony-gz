@@ -65,7 +65,7 @@ Production-style banking REST API built with Spring Boot, JWT authentication and
 ### 📊 [SmartBizControl API](https://github.com/tony-gz/smartbizcontrol-api)
 Backend system for microbusiness management with Firebase Authentication.
 
-### 📡 [Dual GPS Fusion System](https://github.com/tony-gz/dual-gps-fusion)
+### 📡 [Dual GPS Fusion System](https://github.com/tony-gz/gps-fusion-system)
 Flutter app for improving GPS accuracy using sensor fusion and dual GPS modules.
 
 
